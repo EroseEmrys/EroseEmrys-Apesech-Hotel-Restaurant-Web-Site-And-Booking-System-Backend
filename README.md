@@ -12,7 +12,7 @@ This repository contains the backend code for the Apesech Hotel Restaurant proje
 - [Database Configuration](#database-configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
